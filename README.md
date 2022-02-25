@@ -1,4 +1,4 @@
-# Build a Python Service to Identify Whether a Is Sponsored or Not.
+# Build a Python Service to Identify Whether a Post Text Is Sponsored or Not.
 
 ## Description.
 This service can be used by an Online Marketing Firm to identify whether a given post_text is sponsored or non-sponsored; the post_text is an English text and may contain emojis or special characters. If the post_text contains any keyword that exists in our ads keywords database (for example #ad, #sponsored, advertisement,...), then the post_text is considered being sponsored, vice versa, non-sponsored.<br>
@@ -25,10 +25,10 @@ After setting up the correct environment and running the app, we use the Postman
 ### Return ads keywords list
 ![GET vocab](https://github.com/ba-luan/microservice/blob/main/image/GET_vocab.PNG)
 ### Add new keywords
-- Add a new ads keyword to the existing vocab list.
-![POST vocab01](https://github.com/ba-luan/microservice/blob/main/image/POST_vocab01.PNG)
-- Add multiple new ads keywords to the existing vocab list.
+- Add a new ads keyword to the existing vocab list.<br>
+![POST vocab01](https://github.com/ba-luan/microservice/blob/main/image/POST_vocab01.PNG)<br>
+- Add multiple new ads keywords to the existing vocab list.<br>
 ![POST vocab02](https://github.com/ba-luan/microservice/blob/main/image/POST_vocab02.PNG)
 ### Predict post_text is sponsored or not
-![POST prediction01](https://github.com/ba-luan/microservice/blob/main/image/POST_prediction01.PNG)
+![POST prediction01](https://github.com/ba-luan/microservice/blob/main/image/POST_prediction01.PNG)<br>
 ![POST prediction02](https://github.com/ba-luan/microservice/blob/main/image/POST_prediction02.PNG)
