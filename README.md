@@ -26,13 +26,13 @@ After setting up the correct environment and running the app, we use the Postman
 ![GET vocab](https://github.com/ba-luan/microservice/blob/main/image/GET_vocab.PNG)
 ### Add new keywords
 - Add a new ads keyword to the existing vocab list.
-<br>
+
 ![POST vocab01](https://github.com/ba-luan/microservice/blob/main/image/POST_vocab01.PNG)
-<br>
+
 - Add multiple new ads keywords to the existing vocab list.
-<br>
+
 ![POST vocab02](https://github.com/ba-luan/microservice/blob/main/image/POST_vocab02.PNG)
 ### Predict post_text is sponsored or not
 ![POST prediction01](https://github.com/ba-luan/microservice/blob/main/image/POST_prediction01.PNG)
-<br>
+
 ![POST prediction02](https://github.com/ba-luan/microservice/blob/main/image/POST_prediction02.PNG)
